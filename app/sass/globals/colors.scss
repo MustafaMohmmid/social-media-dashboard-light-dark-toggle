@@ -1,0 +1,25 @@
+// ### Primary
+:root {
+    --arrow-up-LimeGreen: hsl(163, 72%, 41%);
+    --arrow-dowme-BrightRed: hsl(356, 69%, 56%);
+    --facebook: hsl(208, 92%, 53%);
+    --twitter: hsl(203, 89%, 53%);
+    --instagram: linear gradient hsl(37, 97%, 70%) to hsl(329, 70%, 58%);
+    --youTube: hsl(348, 97%, 39%);
+    
+    // #### Dark Theme
+    --dark-toggle-bg: linear gradient hsl(210, 78%, 56%) to hsl(146, 68%, 55%);
+    --bg-top-dark: hsl(232, 19%, 15%);
+    --bg-dark: hsl(230, 17%, 14%);
+    --dark-cards: hsl(228, 28%, 20%);
+    --dark-text-blue: hsl(228, 34%, 66%);
+    --dark-text-white: hsl(0, 0%, 100%);
+
+    // #### Light Theme
+    --light-toggle-bg: hsl(230, 22%, 74%);
+    --bg-light-White: hsl(0, 0%, 100%);
+    --bg-top-light: hsl(225, 100%, 98%);
+    --light-cards: hsl(227, 47%, 96%);
+    --light-text-blue: hsl(228, 12%, 44%);
+    --light-text-Vblue: hsl(230, 17%, 14%);
+}
